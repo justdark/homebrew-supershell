@@ -3,7 +3,7 @@ class Supershell < Formula
 
   desc "智能的命令行工具，可以将自然语言指令转换为具体的 Shell 命令并执行"
   homepage "https://github.com/justdark/supershell"
-  url "https://github.com/justdark/supershell/archive/refs/tags/v1.0.0.tar.gz"
+  url "https://github.com/justdark/supershell/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "00d783f1e6e9f01a7d1cc31ec593892dcaddf1933694bd472a18eda0ac2b88e1"
   license "MIT"
 
